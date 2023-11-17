@@ -13,7 +13,7 @@ This repository contains the solution to the internship assignment and accompany
 
 [I have made a live vehicle identifier and counter model that can estimate the live count of vehicles present in the frame.]
 
-### Video: [Highway Video]((https://youtu.be/KBsqQez-O4w?si=eWAPzo_emAbjY_DE))
+### Video: [Highway Video](https://youtu.be/KBsqQez-O4w?si=eWAPzo_emAbjY_DE)
 
 ## Task 2: [Emotion Estimator]
 
