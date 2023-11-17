@@ -2,21 +2,24 @@
 
 This repository contains the solution to the internship assignment and accompanying materials for Task 1 and Task 2.
 
-## Task 1: [Task 1 Title]
+## Task 1: [Only Person Detection]
 
-[Describe Task 1 and provide any relevant details.]
+[I have created an object detection model that will detect the persons from the video(example)]
 
-### Video: [Task 1 Video](https://youtu.be/5XVoRGhrhZk?si=fN9XnH2P3kBZodJa)
+### Video: [Carryminati Video](https://youtu.be/5XVoRGhrhZk?si=fN9XnH2P3kBZodJa)
 
-[Include any additional information or context related to the video.]
 
-## Task 2: [Task 2 Title]
+## Task 2: [Vehicle Counting]
 
-[Describe Task 2 and provide any relevant details.]
+[I have made a live vehicle identifier and counter model that can estimate the live count of vehicles present in the frame.]
 
-### Video: [Task 2 Video](https://youtu.be/5XVoRGhrhZk?si=fN9XnH2P3kBZodJa)
+### Video: [Highway Video]((https://youtu.be/KBsqQez-O4w?si=eWAPzo_emAbjY_DE))
 
-[Include any additional information or context related to the video.]
+## Task 2: [Emotion Estimator]
+
+[Created a emotion classifier model in which I have trained and is tested on the result of task1]
+
+### Video: [Carryminati Video](https://youtu.be/5XVoRGhrhZk?si=fN9XnH2P3kBZodJa)
 
 ## Repository Structure
 
